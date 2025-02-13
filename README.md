@@ -189,6 +189,8 @@ documentation-assistant/
    ```
 
 ## Notes
+- Implement CrewAI
+  
 
 - Keep your API keys secure and never commit them to version control
 - The application processes markdown files only
